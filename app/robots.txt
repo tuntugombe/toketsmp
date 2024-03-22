@@ -5,4 +5,4 @@ Disallow:
 # Allow all crawlers
 User-agent: *
 Allow: /
-Sitemap: https://ngentotindo.pages.dev/sitemap.xml
+Sitemap: https://toketsmp.pages.dev/sitemap.xml
